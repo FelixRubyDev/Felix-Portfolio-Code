@@ -1,4 +1,4 @@
 # portfolio
 
 
-Steve Yerigan Porfolio - https://syerigan.herokuapp.com/
+Victor Porfolio - https://syerigan.herokuapp.com/
